@@ -1,4 +1,4 @@
-## This is an end-to-end machine learning project for predicting student performance. I followed Krish Naik's tutorials to learn and build this project.
+## This is an end-to-end machine learning project for predicting student performance. 
 
 ## What I Learned
 Through this project, I learned how to:
@@ -30,4 +30,4 @@ templates/: HTML files for the web application.
 
 application.py: Main Flask app for running the project.
  
-## This project was created purely for learning purpose.
+## This project was created for learning purpose.
